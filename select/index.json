@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "NO, Thank You!",
+  "base_artist": "放課後ティータイム",
+  "createdAt": "2025-12-04T13:10:05.089830Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "No Thank You",
+      "artist": "Bish",
+      "has_synced": true,
+      "path": "select/01_No_Thank_You_Bish.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "NO, Thank You!",
+      "artist": "放課後ティータイム",
+      "has_synced": true,
+      "path": "select/02_NO,_Thank_You!_放課後ティータイム.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "NO, Thank You!",
+      "artist": "Selphius",
+      "has_synced": true,
+      "path": "select/03_NO,_Thank_You!_Selphius.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "NO, Thank You!",
+      "artist": "Ho-kago Tea Time",
+      "has_synced": true,
+      "path": "select/04_NO,_Thank_You!_Ho-kago_Tea_Time.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "No Thank You",
+      "artist": "Coaltar Of The Deepers",
+      "has_synced": true,
+      "path": "select/05_No_Thank_You_Coaltar_Of_The_Deepers.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "NO,Thank You! [TV size Ver.]",
+      "artist": "放課後ティータイム",
+      "has_synced": false,
+      "path": "select/06_NO,Thank_You!_[TV_size_Ver.]_放課後ティータイム.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "No, Thank You",
+      "artist": "Ho-kago Tea Time",
+      "has_synced": true,
+      "path": "select/07_No,_Thank_You_Ho-kago_Tea_Time.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "NO, Thank You!",
+      "artist": "Toyosaki Aki & Hisaka Youko & Satou Satomi & Kotobuki Minako & Taketatsu Ayana",
+      "has_synced": true,
+      "path": "select/08_NO,_Thank_You!_Toyosaki_Aki_&_Hisaka_Youko_&_Satou_Satomi_&_Kotobuki_Minako_&_Taketatsu_Ayana.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "No Thank You For The Music",
+      "artist": "Frank Turner",
+      "has_synced": true,
+      "path": "select/09_No_Thank_You_For_The_Music_Frank_Turner.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "No Thank You, I'm More in to Fake Grindcore",
+      "artist": "Blood Command",
+      "has_synced": false,
+      "path": "select/10_No_Thank_You,_I'm_More_in_to_Fake_Grindcore_Blood_Command.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "NO, Thank You!",
+      "artist": "Ho-Kago Tea Time",
+      "has_synced": true,
+      "path": "select/11_NO,_Thank_You!_Ho-Kago_Tea_Time.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "NO, Thank You! (TV size Ver.)",
+      "artist": "Ho-Kago Tea Time",
+      "has_synced": false,
+      "path": "select/12_NO,_Thank_You!_(TV_size_Ver.)_Ho-Kago_Tea_Time.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "No, Thank You! (From \"K-On!!\")",
+      "artist": "Ho - Kago Tea Time",
+      "has_synced": false,
+      "path": "select/13_No,_Thank_You!_(From__K-On!!_)_Ho_-_Kago_Tea_Time.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "NO, Thank You! - Russian ver.",
+      "artist": "Onsa Media",
+      "has_synced": true,
+      "path": "select/14_NO,_Thank_You!_-_Russian_ver._Onsa_Media.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "NO, Thank You! (Russian ver.)",
+      "artist": "Onsa Media",
+      "has_synced": true,
+      "path": "select/15_NO,_Thank_You!_(Russian_ver.)_Onsa_Media.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "No Thank You",
+      "artist": "Bryson Tiller",
+      "has_synced": false,
+      "path": "select/16_No_Thank_You_Bryson_Tiller.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "NO, Thank You!",
+      "artist": "放課後ティータイム",
+      "has_synced": false,
+      "path": "select/pl_01_NO,_Thank_You!_放課後ティータイム.txt"
+    }
+  ]
+}
